@@ -8,6 +8,10 @@
 ![alt text](image.png)
 
 
+<br>
+代码量<br>
+![alt text](image-4.png)
+
 ps. git 相关指令
 ![alt text](image-2.png)
 
