@@ -20,3 +20,4 @@ ps. git 相关指令
 - git add .
 - git commit -m "Added new image"
 - git push origin main
+- git remote -v
